@@ -1,0 +1,6 @@
+{
+  "name": "AuraFit - Gym Fitness & Management",
+  "description": "Offline-first gym fitness tracking and gym management app with workout plans, real-time schedule, progress metrics, and complete administrative modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
